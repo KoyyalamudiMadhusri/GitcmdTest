@@ -1,0 +1,13 @@
+{ 
+   "data1":"magnitia", 
+   "data2": ["abdul", 10, true, 45.89], 
+   "data3": { "name":"sindhu", "age":25 }, 
+   "data4":[ 
+   				{ "name":"batch254", "weight":56 }, 
+                { "name":"batch256", "weight":61, "height": 5.8 } 
+             ], 
+    "data5": { 
+               "eng": { "official": "Malaysia", "common": null }, 
+               "msa": { "cars":["Ford", "BMW", "Fiat"], "ITR":true } 
+            } 
+}
